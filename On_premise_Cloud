@@ -1,0 +1,32 @@
+# Differentiate between on-premises, on-cloud, and hybrid cloud computing models.
+
+⏹️ON-PREMISE
+All servers ,storage, networking hardware, databases are maintained in your organization's physical space.
+
+--> Is is used for:
+° Organizations with strict data controlor compliance needs
+° Industries like banking, heslth care, defense
+
+◼️Example: A hospital running its patient records system on its own servers due to legal data privacy requirements.
+
+⏹️ON_CLOUD
+Everthing is hosted on cloud platforms like AWS, Microsoft Azure or Google Cloud 
+
+--> Is is used for:
+° For better scalability and low cost
+° Quick development, global access
+
+◼️Example: A startup using AWS to host their web app, scale quickly, and pay only for usage
+
+⏹️HYBRID CLOUD
+A combination of on-premises infrastructure and cloud services, working together.
+
+--> Is is used for:
+° Companies migrating gradually to the cloud
+° Organizations needing to keep some data in-house but also want the flexibility of cloud
+° Workloads that need both low latency (on-prem) and high scalability (cloud)
+
+◼️Example: A bank storing sensitive customer data on-premises but running analytics and mobile apps in the cloud.
+
+
+#AWS #CLOUD
