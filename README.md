@@ -6,7 +6,7 @@ AWS (Amazon Web Services) is a cloud srevice provider offered by Amazon. It prov
 🧠 In Simple Words:
 AWS lets you run websites, apps, store data, analyze information, and even train AI models — without needing to buy or manage physical hardware.
 
-You pay only for what you use, just like electricity or water.
+Data centers are large spaces dedicated to keep post, resources, and servers , so that you can access them and you pay only for what you use, just like electricity or water.
 
 #🔧 Key AWS Services:
 
