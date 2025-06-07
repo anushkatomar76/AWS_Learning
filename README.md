@@ -13,7 +13,7 @@ You pay only for what you use, just like electricity or water.
 | Category      | Examples                   | Purpose                                  |
 | ------------- | -------------------------- | ---------------------------------------- |
 | 💻 Compute    | EC2, Lambda                | Run applications or servers              |
-| 📦 Storage    | S3, EBS                    | Store files, backups, and big data       |
+| 📦 Storage    | S3, EBS                    | Store files and folders, backups, and big data       |
 | 🗃️ Databases | RDS, DynamoDB              | Store and manage structured data         |
 | 🌐 Networking | VPC, CloudFront            | Control access and deliver content fast  |
 | 🔒 Security   | IAM, KMS                   | Manage users and protect data            |
