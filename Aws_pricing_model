@@ -1,0 +1,51 @@
+#♾️AWS pricing models
+
+ 
+
+▪️--> AWS offers a range of pricing models that give users flexibility and control over their cloud spending.
+
+
+
+▪️--> Whether you are just getting started with cloud computing or optimizing enterprise workloads understanding AWS pricing models can help us save a lot of money💰.
+
+
+
+⚙️AWS provides us five main pricing models for cloud services:
+
+
+
+☑️1.Pay-As-You-Go(On-demand) -
+
+you pay only what you use , no long term commitments or upfront payments. Ideal for short-term or unpredictable workloads.
+
+
+
+Example: Running a virtual instance for a few hours during testing. 
+
+
+
+☑️2. Reserved Instances -
+
+you have to using specific services like EC2 or RDS for 1 or 3 years for a lower rate and get up to 75% discount.
+
+
+
+☑️3. Savings plan -
+
+Flexible pricing model for based on usage commitment over 1 or 3 years, ideal for users who need flexibility and savings. 
+
+
+
+☑️4. Spot instances -
+
+You can buy unused EC2 capacity at upto 90% discount, but AWS can stop it anytime . It is best for batch jobs, testing.
+
+
+
+☑️ 5. Free tier -
+
+AWS offers limited services for free for 12 months and some services always free. It is best for beginners and learning . 
+
+
+
+⏹️Choosing the right pricing model means smart savings and better planning. 
