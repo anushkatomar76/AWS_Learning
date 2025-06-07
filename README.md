@@ -1,7 +1,7 @@
 # AWS_Learning
 
 ## 🌐 What is AWS?
-AWS (Amazon Web Services) is a cloud computing platform offered by Amazon. It provides a wide range of services like storage, servers, databases, networking, machine learning, security, and much more — all over the internet (the "cloud").
+AWS (Amazon Web Services) is a cloud srevice provider offered by Amazon. It provides a wide range of services like storage, servers, databases, networking, machine learning, security, and much more — all over the internet (the "cloud"), we can access these services anytime and anywhere
 
 🧠 In Simple Words:
 AWS lets you run websites, apps, store data, analyze information, and even train AI models — without needing to buy or manage physical hardware.
