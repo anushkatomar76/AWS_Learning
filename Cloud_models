@@ -1,0 +1,29 @@
+Explore IAAS, PAAS and SAAS with examples.
+
+⏹️IAAS (Infrastructure as a service)
+--> Here we rent the infrastructure(hardware) including netwroking, server, storage and etc from the cloud providers . You manage everything like OS , apps, runtime etc
+
+Example : Microsoft Azure VM, Amazon EC2 - Where you get a virtual machine and install evrething you need.
+
+USECASES:
+° Full control over environment
+° Custom Software
+° Web Hosting
+
+⏹️PAAS (Platform as a service)
+--> Here You get platform where you only run the code for build, test, and deploy apps, you don't manage anything like OS or servers, you manage only your app and code.
+
+Example: AWS Elastic Beanstak, Google App Engine 
+
+USECASES:
+° Helpful for app developers who want to focus on the code only.
+° No server os os headache
+
+⏹️SAAS (Software as a service)
+--> Ready made software tools you use via a web browser/chrome or app , you don't manage anything, you just log in and use that.
+
+Example: Zoom , Canva, Google Docs, Gmail Etc
+
+USECASES:
+° Emails, Video calls, Editing, CRM 
+° Businessess and individuals use this
